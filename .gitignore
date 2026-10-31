@@ -1,0 +1,17 @@
+# Closed source-only backup allowlist.
+*
+!/.gitignore
+!/README.md
+!/BACKUP.md
+!/LICENSES/
+!/LICENSES/Natter-GPL-3.0.txt
+!/tools/
+!/tools/loopback_probe_server.py
+!/tools/prime_peers.py
+!/tools/probe_mapping.py
+!/tools/review_network.py
+!/tools/vps_probe.py
+!/tools/natter.py
+!/tools/vendor/
+!/tools/vendor/natter-check.py
+!/tools/vendor/README.md
